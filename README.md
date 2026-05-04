@@ -42,6 +42,35 @@ Performs all computations locally on ESP32 for faster response and reliability.
 Easily extendable with additional sensors, cloud integration, or AI models.
 
 ---
+## 🖼️ Project Preview
+
+### 🖥️ Dashboard UI
+![Dashboard](./assets/dashboard.png)
+
+---
+
+## 🔌 Hardware Setup
+
+### 🛠️ Circuit Diagram / Connections
+![Hardware Setup](./assets/hardware_setup.png)
+
+---
+
+## 🔗 Connections Overview
+
+- ESP32 connected to DHT22 for temperature & humidity sensing  
+- ACS712 used for current measurement  
+- MPU6050 connected via I2C for vibration detection  
+- L298N motor driver used to control DC motor  
+- Buzzer and LEDs used for alert indication  
+
+---
+
+## 🏗️ System Architecture
+
+Sensors → ESP32 → Data Processing → Health Score Calculation → Web Dashboard → Alerts
+
+---
 
 ## 🧩 Technologies Used
 
@@ -73,3 +102,4 @@ Easily extendable with additional sensors, cloud integration, or AI models.
 - Predictive maintenance systems  
 - Smart factories (Industry 4.0)  
 - Remote equipment diagnostics  
+
