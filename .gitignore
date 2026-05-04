@@ -1,0 +1,21 @@
+# Arduino / ESP32
+*.ino.cpp
+*.ino.cpp.o
+*.hex
+*.elf
+
+# Build folders
+build/
+dist/
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
