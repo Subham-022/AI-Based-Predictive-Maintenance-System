@@ -45,7 +45,7 @@ Easily extendable with additional sensors, cloud integration, or AI models.
 ## 🖼️ Project Preview
 
 ### 🖥️ Dashboard UI
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./dashboard.png)
 
 ---
 
