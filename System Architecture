@@ -1,0 +1,13 @@
+AI-Based-Predictive-Maintenance-System/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── code/
+│   └── motor_health_monitor/
+│       └── motor_health_monitor.ino
+│
+└── assets/
+    ├── dashboard.png
+    └── hardware_setup.jpeg
