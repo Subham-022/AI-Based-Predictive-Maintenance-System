@@ -52,7 +52,7 @@ Easily extendable with additional sensors, cloud integration, or AI models.
 ## 🔌 Hardware Setup
 
 ### 🛠️ Circuit Diagram / Connections
-![Hardware Setup](./hardware_setup.png)
+![Hardware Setup](./hardware_setup.jpeg)
 
 ---
 
